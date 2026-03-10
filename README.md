@@ -14,7 +14,7 @@ routes -> api.php
 
 Clone the repository
 
-git clone https://github.com/HenishaTechie/Overlapping-Meeting-Validator-Laravel-
+git clone https://github.com/HenishaTechie/Overlapping-Meeting-Validator-Laravel
 
 Install dependencies
 
