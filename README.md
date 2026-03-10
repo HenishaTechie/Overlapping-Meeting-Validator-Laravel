@@ -4,11 +4,21 @@ problem statement
 
 # Project Structure
 
-app->Http/Controllers ->MeetingController.php
+app->Http/Controllers->api->MeetingController.php
 
 app-> Services-> MeetingService.php
 
 routes -> api.php
+
+# How to Run the Project
+
+Clone the repository
+
+git clone https://github.com/HenishaTechie/Overlapping-Meeting-Validator-Laravel-
+
+Install dependencies
+
+composer install
 
 # Testing APIs
 
