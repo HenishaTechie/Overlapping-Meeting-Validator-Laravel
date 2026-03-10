@@ -1,5 +1,5 @@
 
-# Overlapping-Meeting-Validator-Laravel-
+# Overlapping-Meeting-Validator-Laravel
 problem statement
 
 # Project Structure
